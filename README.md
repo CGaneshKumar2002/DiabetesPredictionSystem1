@@ -69,5 +69,3 @@ Contributions to the Diabetes Prediction System project are welcome! If you have
 ## License
 
 The Diabetes Prediction System is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
-
-Please refer to the documentation for detailed information on the project, including setup instructions, additional resources, and code structure.
